@@ -61,4 +61,4 @@ if st.button('Calculate Risk'):
     st.write(f"Rating: {rating}")
 
 # Footer
-st.markdown('_Created By Rohesen♥️_')
+st.markdown('                                    _Created By Rohesen♥️_                    ')
