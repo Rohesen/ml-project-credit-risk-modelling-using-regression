@@ -61,4 +61,22 @@ if st.button('Calculate Risk'):
     st.write(f"Rating: {rating}")
 
 # Footer
-st.markdown('                                    _Created By Rohesen♥️_                    ')
+#st.markdown('                                    _Created By Rohesen♥️_                    ')
+st.markdown(
+    """
+    <style>
+    .footer {
+        position: fixed;
+        bottom: 10%;
+        left: 0;
+        width: 100%;
+        text-align: center;
+        font-size: 20px;  /* Small font size */
+        color: gray;       /* Light gray text */
+        padding: 5px;
+    }
+    </style>
+    <div class="footer">Created by <b>Rohesen ♥️</b></div>
+    """,
+    unsafe_allow_html=True
+)
