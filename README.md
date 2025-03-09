@@ -10,7 +10,7 @@ Lauki Finance, an NBFC in India, partnered with **AtliQ AI** to develop a **Cred
 ![Credit Risk Model on Streamlit](https://github.com/Rohesen/ml-project-credit-risk-modelling-using-regression/blob/main/credit-risk-model-vid.gif) 
 
 
-🔗 **GitHub Repository:** [View on GitHub](https://github.com/Rohesen/ml-project-credit-risk-modelling-using-regression)  
+ 
 
 ---
 
@@ -108,7 +108,8 @@ Check out the live model:
 ---
 
 ## 📬 Contact  
-If you have any questions or suggestions, feel free to connect! 🚀  
+If you have any questions or suggestions, feel free to connect! 🚀 
 
+🔗 **GitHub Repository:** [View on GitHub](https://github.com/Rohesen/ml-project-credit-risk-modelling-using-regression) 
 🔗 **GitHub:** [@Rohesen](https://github.com/Rohesen)  
 🔗 **Live App:** [Streamlit Credit Risk Model](https://rohesen-ml-project-credit-risk-modelling-using-regression.streamlit.app/)  
