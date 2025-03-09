@@ -4,6 +4,12 @@
 Lauki Finance, an NBFC in India, partnered with **AtliQ AI** to develop a **Credit Risk Model** that categorizes loan applicants into **Poor, Average, Good, and Excellent** credit risk groups. This project aims to help financial institutions assess risk, minimize defaults, and improve loan approvals using machine learning.  
 
 🔗 **Live App:** [Credit Risk Model on Streamlit](https://rohesen-ml-project-credit-risk-modelling-using-regression.streamlit.app/)  
+
+
+
+[Credit Risk Model on Streamlit](https://github.com/Rohesen/ml-project-credit-risk-modelling-using-regression/blob/main/credit-risk-model-vid.gif) 
+
+
 🔗 **GitHub Repository:** [View on GitHub](https://github.com/Rohesen/ml-project-credit-risk-modelling-using-regression)  
 
 ---
